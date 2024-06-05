@@ -10,9 +10,8 @@ in this Folder we will be looking at mini projects from python and pandas
   comparisons and logic
   
 2 We are scarping information from the internet and ectracting a table from it.
-  then we will perfom different projects such as:
+  we have used the following technical skills:
 
-    1 Scrapping from web
       variables
       if,elif and nested loops
       data types (converting)
